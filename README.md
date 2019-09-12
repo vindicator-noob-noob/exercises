@@ -4,11 +4,11 @@ Seeing advanced coding solutions can be intimidating, but willing to work throug
 to better understand. With that said, looking forward to guidance of experienced programmer and establish some meaningful working relationships. But let's get down to it!
 
 
-# exercises
 This repository consists of exercises and my solutions (as a beginner). Looking for refined advice for more experienced coders.
 
-# Randomly generate two lists and find common items in these lists. Create a new list
-# with the items in common. Avoid having duplicates in the new list. 
+
+Exercise 1:
+Randomly generate two lists and find common items in these lists. Create a new list with the items in common. Avoid having duplicates in the new list. 
 
 import random    
 x = []
