@@ -28,7 +28,9 @@ print(x)
 print(y)
 
 for i in y:
-    if (i in x) and (i not in z): #Finds a common number. Prevents duplicates.
+   
+   if (i in x) and (i not in z): #Finds a common number. Prevents duplicates.
+    
     z.append(i) 
 
 print(z) # Displays new list of common items without duplicates.
